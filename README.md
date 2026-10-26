@@ -16,7 +16,7 @@ A manual for surviving **and enjoying** the first year of running a single-owner
 | [Insurance starters](docs/insurance.md) | GL → BOP → E&O → media → the personal-side gaps, in buying order |
 | [The annual-report ritual](docs/annual-report.md) | Indiana's *biennial* Business Entity Report, registered agent, the BOI footnote |
 | [When to call a pro](docs/professionals.md) | Ten triggers, the roles sorted, the first-call script, what to bring |
-| Checklists | [First 30 days](docs/worksheets/first-30-days.md), [quarterly money date](docs/worksheets/quarterly-money-date.md), [year end](docs/worksheets/year-end.md) |
+| Checklists | [First 30 days](docs/checklists/first-30-days.md), [quarterly money date](docs/checklists/quarterly-money-date.md), [year end](docs/checklists/year-end.md) |
 
 ## Run it
 

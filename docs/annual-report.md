@@ -66,7 +66,7 @@ File this page under "already armed" rather than "possible futures":
 
 ## The one-page ceremony
 
-What the ritual actually looks like, pen and paper edition (printable in [the worksheets](first-30-days.md)):
+What the ritual actually looks like, pen and paper edition (printable in [the checklists](first-30-days.md)):
 
 1. Calendar: open INBiz, confirm anniversary month and this year's BER due/ not due.
 2. If filing: confirm facts on screen are true, pay, **save receipt PDF to `legal/`**.
